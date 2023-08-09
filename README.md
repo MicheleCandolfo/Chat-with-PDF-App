@@ -42,6 +42,9 @@ Before running the app, ensure you have the necessary dependencies installed.
 
 - `pip install -r requirements.txt`
 
+### **Set up an .env file with your OPENAI API KEY**
+- `OPENAI_API_KEY=XYZ`
+
 ### **Run the Streamlit App**
 
 - `streamlit run pdf-chat-app.py`

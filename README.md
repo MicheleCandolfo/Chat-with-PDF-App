@@ -1,4 +1,4 @@
-# PDF Chat App - An AI-driven Application
+# PDF Chat App
 
 ## Description
 
